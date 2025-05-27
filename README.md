@@ -57,5 +57,10 @@
 <img src="image/Waveform1.png" width="750">
 <img src="image/Waveform2.png" width="750">
 
+## Modulesim驗證結果
+<img src="image/modelsim.png" width="750">
+<img src="image/modelsim2.png" width="750">
+<img src="image/modelsim3.png" width="750">
+
 ---
 
