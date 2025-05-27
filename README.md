@@ -1,6 +1,6 @@
 ## Datapath與詳細構造圖
-<img src="images/Datapath與詳細構造圖.png" width="300">
-<img src="images/Datapath與詳細構造圖2.png" width="300">
+<img src="image/Datapath與詳細構造圖.png" width="300">
+<img src="image/Datapath與詳細構造圖2.png" width="300">
 
 
 ## 設計重點說明
@@ -54,8 +54,8 @@
 - 保存 memory 階段的資料與控制訊號，進入 WB 階段。
 
 ## Waveform輸出圖形
-<img src="images/waveform1.png" width="300">
-<img src="images/waveform2.png" width="300">
+<img src="image/waveform1.png" width="300">
+<img src="image/waveform2.png" width="300">
 
 ---
 
